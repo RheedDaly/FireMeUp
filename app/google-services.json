@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "519256628137",
+    "firebase_url": "https://firemeup-2f837.firebaseio.com",
+    "project_id": "firemeup-2f837",
+    "storage_bucket": "firemeup-2f837.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519256628137:android:d68eb6c4f3d9db01",
+        "android_client_info": {
+          "package_name": "com.thetechaupair.firemeup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519256628137-kfk8nkeg1011iv4nqb6cf6b8h1r2q830.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.thetechaupair.firemeup",
+            "certificate_hash": "82315CACF070C5171705A156EC54393FB1EC3E54"
+          }
+        },
+        {
+          "client_id": "519256628137-l7tcb3sufrhvrkfn6kf2ifo8dfjgn6mm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPbhtqWCj1mYXEFVKqwxHJo-aDjzBwHbE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519256628137-l7tcb3sufrhvrkfn6kf2ifo8dfjgn6mm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
